@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PrimaryColor">#DAC0A3</color>
+    <color name="SecondaryColor">#55BBAF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background">#102C57</color>
+    <string name="facebook">Facebook Icon</string>
+    <string name="linkend">Facebook Icon</string>
+    <string name="via_social_media">Or via social media</string>
+</resources>
